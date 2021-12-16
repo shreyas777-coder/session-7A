@@ -1,0 +1,13 @@
+Step-1:Create new folder & add or a create a document
+Step-2:Inside the folder right click on mouse open git bash
+Step-3:Type the command "git init"
+Step-4:Now add the file by typing the command "git add file name"
+Step-5:Now commit the file by typing the command "git commit -a -m "commet"
+       if it asks for please tell me who are you if it is not conifgured
+       Type the command (git config --global user.email "Email-id")
+       Again we need config by add user type the command (git config --global user.name "git hub username")
+Step-6:Now again commit it
+Step-7:Now copy the https link of your repo from github
+Step-8:now the type the command (git remote add origin "the https link")
+Steps-9: To check it working type "git remote -v"
+Step-10:To push type "git push origin master" 
